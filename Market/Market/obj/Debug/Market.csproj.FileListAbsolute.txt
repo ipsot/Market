@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\Market\Market\bin\Debug\Market.exe.config
+C:\Users\mort8\source\repos\Market\Market\bin\Debug\Market.exe
+C:\Users\mort8\source\repos\Market\Market\bin\Debug\Market.pdb
+C:\Users\mort8\source\repos\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\Market\Market\obj\Debug\Market.exe
+C:\Users\mort8\source\repos\Market\Market\obj\Debug\Market.pdb
